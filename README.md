@@ -1,11 +1,10 @@
-Integrando y Funcional la libreria JQuery Gantt, CodeIgniter y MySQL
+Integrando y Funcional la librería JQuery Gantt, CodeIgniter y MySQL
 
-Basicamnete se tomo la libreria para hacer Gantts hecha por Roberto Bicchierai 
+Básicamente se tomo la librería para hacer Gantts hecha por Roberto Bicchierai 
 y se integro con base de Datos MySQL y CodeIgniter.
 
-Esta totalmente funcional, lo unico que se debe hacer el correr en el SQL gantt.sql.
+Esta totalmente funcional, lo único que se debe hacer el correr en el SQL gantt.sql; a partir de allí todo queda a tu imaginación.
 
-Tambien se le agregaron unos lengajues de internacionalización solo en Español.
+También se le agregaron unos lenguajes de internacionalización solo en Español.
 
-Para informacion sobre la libreria `JQuery Gantt
-<http://roberto.open-lab.com/2012/08/24/jquery-gantt-editor>`_
+Para información y documentación sobre la [librería JQuery Gantt](http://roberto.open-lab.com/2012/08/24/jquery-gantt-editor "JQuery Gantt").
