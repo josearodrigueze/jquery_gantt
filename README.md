@@ -8,4 +8,4 @@ Esta totalmente funcional, lo unico que se debe hacer el correr en el SQL gantt.
 Tambien se le agregaron unos lengajues de internacionalización solo en Español.
 
 Para informacion sobre la libreria `JQuery Gantt
-<http://roberto.open-lab.com/2012/08/24/jquery-gantt-editor>
+<http://roberto.open-lab.com/2012/08/24/jquery-gantt-editor>`_
