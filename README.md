@@ -7,4 +7,6 @@ Esta totalmente funcional, lo único que se debe hacer el correr en el SQL gantt
 
 También se le agregaron unos lenguajes de internacionalización solo en Español.
 
+Instala el SQL que este en los fuentes configura tu archivo database y luego ejecuta el controlador de Gantt y podras ver el ejemplo.
+
 Para información y documentación sobre la [librería JQuery Gantt](http://roberto.open-lab.com/2012/08/24/jquery-gantt-editor "JQuery Gantt").
