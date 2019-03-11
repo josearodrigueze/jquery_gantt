@@ -1,3 +1,5 @@
+*_DEPRECADO - ESTE PROYECTO YA NO TIENE SOPORTE_*
+
 Integrando y Funcional la librería JQuery Gantt, CodeIgniter y MySQL
 
 Básicamente se tomo la librería para hacer Gantts hecha por Roberto Bicchierai 
